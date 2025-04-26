@@ -1,0 +1,9 @@
+if (loveScore > 50) {
+ alert("your love score is " + loveScore + "%" + " you love each other like romeo and juliet" );
+}
+if (loveScore > 30 && loveScore <=50) {
+ alert("your love score is " + loveScore + "%");
+}
+if (loveScore <=30) {
+  alert("your love score is " + loveScore + "%" + " you go together like oil and water");
+} 
